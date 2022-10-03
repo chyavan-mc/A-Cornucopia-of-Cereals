@@ -1,0 +1,1367 @@
+{
+    "Quisp Cereal": {
+        "top_1": "King Vitaman Cereal",
+        "top_2": "Mr. T Cereal",
+        "top_3": "Clackers Graham Cereal",
+        "top_4": "Rice Krinkles Cereal",
+        "top_5": "Graham Cracko's Cereal"
+    },
+    "Frosted Flakes (Kellogg's) Cereal": {
+        "top_1": "Fruity Pebbles Cereal",
+        "top_2": "Pink Panther Flakes Cereal",
+        "top_3": "Boo Berry Cereal",
+        "top_4": "Cracklin' Oat Bran Cereal",
+        "top_5": "Froot Loops Cereal"
+    },
+    "Concentrate Cereal": {
+        "top_1": "Almond Delight Cereal",
+        "top_2": "Fortified Oat Flakes Cereal",
+        "top_3": "Apple Raisin Crisp Cereal",
+        "top_4": "Kenmei Rice Bran Cereal",
+        "top_5": "S.W. Graham Cereal"
+    },
+    "Krumbles Cereal": {
+        "top_1": "Sugar Jets Cereal",
+        "top_2": "S.W. Graham Cereal",
+        "top_3": "Jets Cereal",
+        "top_4": "Ruskets Flakes",
+        "top_5": "Corn Bran Cereal"
+    },
+    "Cap'n Crunch Cereal": {
+        "top_1": "Golden Crisp Cereal",
+        "top_2": "Cinnamon Toast Crunch Cereal",
+        "top_3": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Golden Grahams Cereal",
+        "top_5": "Waffelos Cereal"
+    },
+    "Grape-Nuts Cereal": {
+        "top_1": "Fruity Pebbles Cereal",
+        "top_2": "Cracklin' Oat Bran Cereal",
+        "top_3": "Yummy Mummy Cereal",
+        "top_4": "Golden Crisp Cereal",
+        "top_5": "Pink Panther Flakes Cereal"
+    },
+    "Puffa Puffa Rice Cereal": {
+        "top_1": "Strawberry Honeycomb Cereal",
+        "top_2": "Nerds Cereal",
+        "top_3": "Grape-Nuts O's Cereal",
+        "top_4": "Kaboom Cereal",
+        "top_5": "Strawberry Shortcake Cereal"
+    },
+    "Honey Nut Cheerios Cereal": {
+        "top_1": "Team Flakes Cereal",
+        "top_2": "E.T. Cereal",
+        "top_3": "Quake Cereal",
+        "top_4": "Basic 4 Cereal",
+        "top_5": "S'mores Grahams Cereal"
+    },
+    "Cinnamon Toast Crunch Cereal": {
+        "top_1": "Golden Grahams Cereal",
+        "top_2": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_3": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Marshmallow Krispies Cereal",
+        "top_5": "Cap'n Crunch Cereal"
+    },
+    "Lucky Charms Cereal": {
+        "top_1": "Smurf Berry Crunch Cereal",
+        "top_2": "Graham Chex Cereal",
+        "top_3": "Froot Loops Cereal",
+        "top_4": "Cap'n Crunch Cereal",
+        "top_5": "Jets Cereal"
+    },
+    "Puffed Rice (Quaker) Cereal": {
+        "top_1": "Wheat Hearts Cereal",
+        "top_2": "Rice Krinkles Cereal",
+        "top_3": "Oatmeal Crisp: Hearty Raisin Cereal",
+        "top_4": "Buc Wheats Cereal",
+        "top_5": "Raisin Squares Cereal"
+    },
+    "Wheaties Cereal": {
+        "top_1": "Pettijohn's Breakfast Food",
+        "top_2": "Freakies Cereal",
+        "top_3": "Sugar Crisp Cereal",
+        "top_4": "OKs Cereal",
+        "top_5": "King Vitaman Cereal"
+    },
+    "Fortified Oat Flakes Cereal": {
+        "top_1": "Almond Delight Cereal",
+        "top_2": "Frosted Mini Chex Cereal",
+        "top_3": "Concentrate Cereal",
+        "top_4": "Apple Raisin Crisp Cereal",
+        "top_5": "Fruity Marshmallow Krispies Cereal"
+    },
+    "Franken Berry Cereal": {
+        "top_1": "Count Chocula Cereal",
+        "top_2": "Force",
+        "top_3": "Peanut Butter Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Apple Jacks Cereal",
+        "top_5": "Raisin Bran (Skinner's) Cereal"
+    },
+    "Rice Krinkles Cereal": {
+        "top_1": "Buc Wheats Cereal",
+        "top_2": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_3": "Corn Soya Cereal",
+        "top_4": "Multi-Bran Chex Cereal",
+        "top_5": "Team Cereal"
+    },
+    "Oat Flakes (Post) Cereal": {
+        "top_1": "Multi-Bran Chex Cereal",
+        "top_2": "Buc Wheats Cereal",
+        "top_3": "Banana Frosted Flakes Cereal",
+        "top_4": "Jets Cereal",
+        "top_5": "Nut & Honey Crunch Cereal"
+    },
+    "Count Chocula Cereal": {
+        "top_1": "Apple Jacks Cereal",
+        "top_2": "Peanut Butter Crunch (Cap'n Crunch) Cereal",
+        "top_3": "Alpha-Bits Cereal",
+        "top_4": "Grape-Nuts Flakes Cereal",
+        "top_5": "Raisin Bran (Skinner's) Cereal"
+    },
+    "Boo Berry Cereal": {
+        "top_1": "Mr. T Cereal",
+        "top_2": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_3": "Yummy Mummy Cereal",
+        "top_4": "Waffle Crisp Cereal",
+        "top_5": "Nut & Honey Crunch Cereal"
+    },
+    "Buc Wheats Cereal": {
+        "top_1": "Multi-Bran Chex Cereal",
+        "top_2": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_3": "Nut & Honey Crunch Cereal",
+        "top_4": "Oat Flakes (Post) Cereal",
+        "top_5": "Team Cereal"
+    },
+    "Hidden Treasures Cereal": {
+        "top_1": "Cinnamon Mini Buns Cereal",
+        "top_2": "Honey Crunch Corn Flakes Cereal",
+        "top_3": "Honey Nut Clusters Cereal",
+        "top_4": "Strawberry Squares Cereal",
+        "top_5": "Pop-Tarts Crunch Cereal"
+    },
+    "Peanut Butter Crunch (Cap'n Crunch) Cereal": {
+        "top_1": "Apple Jacks Cereal",
+        "top_2": "Count Chocula Cereal",
+        "top_3": "Alpha-Bits Cereal",
+        "top_4": "Franken Berry Cereal",
+        "top_5": "Trix Cereal"
+    },
+    "Froot Loops Cereal": {
+        "top_1": "Moonstones Cereal",
+        "top_2": "Waffelos - Blueberry Cereal",
+        "top_3": "Jets Cereal",
+        "top_4": "Lucky Charms Cereal",
+        "top_5": "Graham Chex Cereal"
+    },
+    "Trix Cereal": {
+        "top_1": "Shredded Wheat (Nabisco) Cereal",
+        "top_2": "Sugar Crisp Cereal",
+        "top_3": "Honey Bunches of Oats: Honey Roasted Cereal",
+        "top_4": "Quake Cereal",
+        "top_5": "Freakies Cereal"
+    },
+    "Waffle Crisp Cereal": {
+        "top_1": "S'mores Crunch Cereal",
+        "top_2": "Team Cereal",
+        "top_3": "Banana Frosted Flakes Cereal",
+        "top_4": "Nut & Honey Crunch Cereal",
+        "top_5": "E.T. Cereal"
+    },
+    "Golden Grahams Cereal": {
+        "top_1": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_2": "Cinnamon Toast Crunch Cereal",
+        "top_3": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Marshmallow Krispies Cereal",
+        "top_5": "Waffelos Cereal"
+    },
+    "Waffelos Cereal": {
+        "top_1": "Puffa Puffa Rice Cereal",
+        "top_2": "Smurf Berry Crunch Cereal",
+        "top_3": "Rainbow Brite Cereal",
+        "top_4": "Double Dip Crunch Cereal",
+        "top_5": "Golden Grahams Cereal"
+    },
+    "Honey-Comb Cereal": {
+        "top_1": "Raisin Bran (Skinner's) Cereal",
+        "top_2": "OKs Cereal",
+        "top_3": "Pettijohn's Breakfast Food",
+        "top_4": "Freakies Cereal",
+        "top_5": "Sugar Crisp Cereal"
+    },
+    "Smurf Berry Crunch Cereal": {
+        "top_1": "Cookie Crisp: Vanilla Wafer Cereal",
+        "top_2": "Grape-Nuts O's Cereal",
+        "top_3": "Almond Delight Cereal",
+        "top_4": "Fortified Oat Flakes Cereal",
+        "top_5": "Fruity Marshmallow Krispies Cereal"
+    },
+    "E.T. Cereal": {
+        "top_1": "S'mores Grahams Cereal",
+        "top_2": "Team Flakes Cereal",
+        "top_3": "Basic 4 Cereal",
+        "top_4": "Raisins Rice & Rye Cereal",
+        "top_5": "Mr. T Cereal"
+    },
+    "Kaboom Cereal": {
+        "top_1": "Powdered Donutz Cereal",
+        "top_2": "Puffa Puffa Rice Cereal",
+        "top_3": "Triple Snack Cereal",
+        "top_4": "Apple Raisin Crisp Cereal",
+        "top_5": "Almond Delight Cereal"
+    },
+    "C-3PO's Cereal": {
+        "top_1": "Addams Family Cereal",
+        "top_2": "Sweet Crunch Cereal",
+        "top_3": "Smorz Cereal",
+        "top_4": "Honey Nut Clusters Cereal",
+        "top_5": "Hunny B's Cereal"
+    },
+    "Frosted Mini Chex Cereal": {
+        "top_1": "Fortified Oat Flakes Cereal",
+        "top_2": "Apple Raisin Crisp Cereal",
+        "top_3": "Rocky Road Cereal",
+        "top_4": "Almond Delight Cereal",
+        "top_5": "Fruity Marshmallow Krispies Cereal"
+    },
+    "Apple Jacks Cereal": {
+        "top_1": "Peanut Butter Crunch (Cap'n Crunch) Cereal",
+        "top_2": "Count Chocula Cereal",
+        "top_3": "Alpha-Bits Cereal",
+        "top_4": "Franken Berry Cereal",
+        "top_5": "Honey-Comb Cereal"
+    },
+    "Nerds Cereal": {
+        "top_1": "Strawberry Shortcake Cereal",
+        "top_2": "C.W. Post Cereal",
+        "top_3": "Puffa Puffa Rice Cereal",
+        "top_4": "Popeye Sweet Crunch Cereal",
+        "top_5": "Oreo O's Cereal"
+    },
+    "Fruity Pebbles Cereal": {
+        "top_1": "Cracklin' Oat Bran Cereal",
+        "top_2": "Frosted Flakes (Kellogg's) Cereal",
+        "top_3": "Vector Cereal",
+        "top_4": "Grape-Nuts Cereal",
+        "top_5": "Yummy Mummy Cereal"
+    },
+    "Sugar Crisp Cereal": {
+        "top_1": "Freakies Cereal",
+        "top_2": "Pettijohn's Breakfast Food",
+        "top_3": "Alpha-Bits Cereal",
+        "top_4": "Wheaties Cereal",
+        "top_5": "Trix Cereal"
+    },
+    "Grape-Nuts Flakes Cereal": {
+        "top_1": "Raisin Bran (Skinner's) Cereal",
+        "top_2": "Muffets Shredded Wheat Cereal",
+        "top_3": "Sugar Crisp Cereal",
+        "top_4": "Alpha-Bits Cereal",
+        "top_5": "Freakies Cereal"
+    },
+    "Mr. T Cereal": {
+        "top_1": "Boo Berry Cereal",
+        "top_2": "E.T. Cereal",
+        "top_3": "S'mores Grahams Cereal",
+        "top_4": "Quisp Cereal",
+        "top_5": "Raisins Rice & Rye Cereal"
+    },
+    "Rocky Road Cereal": {
+        "top_1": "Frosted Mini Chex Cereal",
+        "top_2": "Almond Delight Cereal",
+        "top_3": "Fruity Marshmallow Krispies Cereal",
+        "top_4": "Fortified Oat Flakes Cereal",
+        "top_5": "Raisin Squares Cereal"
+    },
+    "Shredded Wheat (Nabisco) Cereal": {
+        "top_1": "Post Toasties Corn Flakes Cereal",
+        "top_2": "Trix Cereal",
+        "top_3": "Vector Cereal",
+        "top_4": "Honey Nut Cheerios Cereal",
+        "top_5": "Country Corn Flakes Cereal"
+    },
+    "Pink Panther Flakes Cereal": {
+        "top_1": "Frosted Flakes (Kellogg's) Cereal",
+        "top_2": "Fruity Pebbles Cereal",
+        "top_3": "Cap'n Crunch Cereal",
+        "top_4": "Cracklin' Oat Bran Cereal",
+        "top_5": "Golden Crisp Cereal"
+    },
+    "Team Flakes Cereal": {
+        "top_1": "E.T. Cereal",
+        "top_2": "Basic 4 Cereal",
+        "top_3": "S'mores Grahams Cereal",
+        "top_4": "Fruit Harvest: Strawberry Blueberry Cereal",
+        "top_5": "Waffle Crisp Cereal"
+    },
+    "Alpha-Bits Cereal": {
+        "top_1": "Freakies Cereal",
+        "top_2": "Sugar Crisp Cereal",
+        "top_3": "Grape-Nuts Flakes Cereal",
+        "top_4": "Pettijohn's Breakfast Food",
+        "top_5": "Honey Nut Cheerios Cereal"
+    },
+    "Cocoa Puffs Cereal": {
+        "top_1": "Marshmallow Krispies Cereal",
+        "top_2": "Cinnamon Toast Crunch Cereal",
+        "top_3": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Frosted Double Dip Crunch Cereal",
+        "top_5": "Mini-Wheats: Raisin Cereal"
+    },
+    "Reese's Puffs Cereal": {
+        "top_1": "Body Buddies Cereal",
+        "top_2": "Cap'n Crunch Cereal",
+        "top_3": "Ice Cream Cones - Vanilla Cereal",
+        "top_4": "Corny-Snaps Cereal",
+        "top_5": "Newman's Own Cereals"
+    },
+    "Cinnamon Crunch (Cap'n Crunch) Cereal": {
+        "top_1": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_2": "Cinnamon Marshmallow Scooby-Doo Cereal",
+        "top_3": "Golden Grahams Cereal",
+        "top_4": "Cinnamon Toast Crunch Cereal",
+        "top_5": "Cookie Crisp: Vanilla Wafer Cereal"
+    },
+    "Raisin Bran (Skinner's) Cereal": {
+        "top_1": "Grape-Nuts Flakes Cereal",
+        "top_2": "Muffets Shredded Wheat Cereal",
+        "top_3": "OKs Cereal",
+        "top_4": "Freakies Cereal",
+        "top_5": "Pettijohn's Breakfast Food"
+    },
+    "Cocoa Frosted Flakes Cereal": {
+        "top_1": "Frosted Chex Cereal",
+        "top_2": "Sun Flakes Cereal",
+        "top_3": "Banana Frosted Flakes Cereal",
+        "top_4": "Whole Wheat Krumbles Cereal",
+        "top_5": "Graham Cracko's Cereal"
+    },
+    "Strawberry Shortcake Cereal": {
+        "top_1": "Nerds Cereal",
+        "top_2": "Strawberry Squares Cereal",
+        "top_3": "C.W. Post Cereal",
+        "top_4": "Puffa Puffa Rice Cereal",
+        "top_5": "Honey Crunch Corn Flakes Cereal"
+    },
+    "Blueberry Muffin Tops Cereal": {
+        "top_1": "Addams Family Cereal",
+        "top_2": "Sweet Crunch Cereal",
+        "top_3": "Pop-Tarts Crunch Cereal",
+        "top_4": "Powerpuff Girls Cereal",
+        "top_5": "Triples Cereal"
+    },
+    "Freakies Cereal": {
+        "top_1": "Sugar Crisp Cereal",
+        "top_2": "Pettijohn's Breakfast Food",
+        "top_3": "Alpha-Bits Cereal",
+        "top_4": "Wheaties Cereal",
+        "top_5": "OKs Cereal"
+    },
+    "Jets Cereal": {
+        "top_1": "Moonstones Cereal",
+        "top_2": "Oat Flakes (Post) Cereal",
+        "top_3": "Almond Delight Cereal",
+        "top_4": "Krumbles Cereal",
+        "top_5": "Rocky Road Cereal"
+    },
+    "Teenage Mutant Ninja Turtles (1989) Cereal": {
+        "top_1": "Buc Wheats Cereal",
+        "top_2": "Corn Soya Cereal",
+        "top_3": "Multi-Bran Chex Cereal",
+        "top_4": "Nut & Honey Crunch Cereal",
+        "top_5": "Ghostbusters Cereal"
+    },
+    "King Vitaman Cereal": {
+        "top_1": "Graham Cracko's Cereal",
+        "top_2": "Whole Wheat Krumbles Cereal",
+        "top_3": "Quisp Cereal",
+        "top_4": "Cocoa Frosted Flakes Cereal",
+        "top_5": "Clackers Graham Cereal"
+    },
+    "French Toast Crunch Cereal": {
+        "top_1": "Cinnamon Marshmallow Scooby-Doo Cereal",
+        "top_2": "Grape-Nuts Trail Mix Crunch: Cranberry Vanilla Cereal",
+        "top_3": "Apple Cinnamon Rice Krispies Cereal",
+        "top_4": "Peanut Butter Toast Crunch Cereal",
+        "top_5": "Crazy Cow - Chocolate Cereal"
+    },
+    "Pokemon Cereal": {
+        "top_1": "Mud & Bugs Cereal",
+        "top_2": "Powerpuff Girls Cereal",
+        "top_3": "SpongeBob SquarePants Cereal",
+        "top_4": "Addams Family Cereal",
+        "top_5": "Hunny B's Cereal"
+    },
+    "Cinnamon Marshmallow Scooby-Doo Cereal": {
+        "top_1": "French Toast Crunch Cereal",
+        "top_2": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_3": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Crazy Cow - Chocolate Cereal",
+        "top_5": "Grape-Nuts Trail Mix Crunch: Cranberry Vanilla Cereal"
+    },
+    "Crispy Wheats 'n Raisins Cereal": {
+        "top_1": "Fortified Oat Flakes Cereal",
+        "top_2": "Tony's Cinnamon Krunchers Cereal",
+        "top_3": "Fruity Marshmallow Krispies Cereal",
+        "top_4": "Cookie Crisp: Vanilla Wafer Cereal",
+        "top_5": "Almond Delight Cereal"
+    },
+    "Peanut Butter Toast Crunch Cereal": {
+        "top_1": "Reptar Crunch Cereal",
+        "top_2": "French Toast Crunch Cereal",
+        "top_3": "Apple Cinnamon Rice Krispies Cereal",
+        "top_4": "Triples Cereal",
+        "top_5": "Pop-Tarts Crunch Cereal"
+    },
+    "Smorz Cereal": {
+        "top_1": "Addams Family Cereal",
+        "top_2": "Sweet Crunch Cereal",
+        "top_3": "C-3PO's Cereal",
+        "top_4": "Blueberry Muffin Tops Cereal",
+        "top_5": "Hunny B's Cereal"
+    },
+    "Quake Cereal": {
+        "top_1": "Honey Bunches of Oats: Honey Roasted Cereal",
+        "top_2": "Basic 4 Cereal",
+        "top_3": "S'mores Grahams Cereal",
+        "top_4": "E.T. Cereal",
+        "top_5": "Fruit Harvest: Strawberry Blueberry Cereal"
+    },
+    "Oreo O's Cereal": {
+        "top_1": "Nerds Cereal",
+        "top_2": "Strawberry Shortcake Cereal",
+        "top_3": "Puffa Puffa Rice Cereal",
+        "top_4": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_5": "Crazy Cow - Chocolate Cereal"
+    },
+    "Yummy Mummy Cereal": {
+        "top_1": "Frosted Mini-Wheats: Vanilla Creme Cereal",
+        "top_2": "Boo Berry Cereal",
+        "top_3": "Vector Cereal",
+        "top_4": "S'mores Crunch Cereal",
+        "top_5": "Fruity Pebbles Cereal"
+    },
+    "Hunny B's Cereal": {
+        "top_1": "Toasted Oatmeal - Honey Nut Cereal",
+        "top_2": "Honey Nut Clusters Cereal",
+        "top_3": "Hidden Treasures Cereal",
+        "top_4": "Addams Family Cereal",
+        "top_5": "Smorz Cereal"
+    },
+    "Vanilly Crunch (Cap'n Crunch) Cereal": {
+        "top_1": "Golden Grahams Cereal",
+        "top_2": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_3": "Cinnamon Marshmallow Scooby-Doo Cereal",
+        "top_4": "Crazy Cow - Chocolate Cereal",
+        "top_5": "Cinnamon Toast Crunch Cereal"
+    },
+    "Raisin Squares Cereal": {
+        "top_1": "Rocky Road Cereal",
+        "top_2": "Fruity Marshmallow Krispies Cereal",
+        "top_3": "Oat Flakes (Post) Cereal",
+        "top_4": "Fortified Oat Flakes Cereal",
+        "top_5": "Jets Cereal"
+    },
+    "Buzz Blasts Cereal": {
+        "top_1": "Most Cereal",
+        "top_2": "Berry Burst Cheerios - Triple Berry Cereal",
+        "top_3": "C.W. Post Cereal",
+        "top_4": "Popeye Sweet Crunch Cereal",
+        "top_5": "Nerds Cereal"
+    },
+    "Golden Crisp Cereal": {
+        "top_1": "Cap'n Crunch Cereal",
+        "top_2": "Cinnamon Toast Crunch Cereal",
+        "top_3": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_5": "Cocoa Puffs Cereal"
+    },
+    "Nut & Honey Crunch Cereal": {
+        "top_1": "Buc Wheats Cereal",
+        "top_2": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_3": "Oat Flakes (Post) Cereal",
+        "top_4": "Banana Frosted Flakes Cereal",
+        "top_5": "Multi-Bran Chex Cereal"
+    },
+    "Pop-Tarts Crunch Cereal": {
+        "top_1": "Blueberry Muffin Tops Cereal",
+        "top_2": "Strawberry Squares Cereal",
+        "top_3": "Ice Cream Cones - Vanilla Cereal",
+        "top_4": "Corny-Snaps Cereal",
+        "top_5": "Apple Cinnamon Rice Krispies Cereal"
+    },
+    "Cracklin' Oat Bran Cereal": {
+        "top_1": "Fruity Pebbles Cereal",
+        "top_2": "Good Morenings: Waffle Crunch Cereal",
+        "top_3": "Special K Apple Cinnamon Crunch Cereal",
+        "top_4": "Vector Cereal",
+        "top_5": "Basic 4 Cereal"
+    },
+    "Almond Delight Cereal": {
+        "top_1": "Fortified Oat Flakes Cereal",
+        "top_2": "Concentrate Cereal",
+        "top_3": "Frosted Mini Chex Cereal",
+        "top_4": "Rocky Road Cereal",
+        "top_5": "Apple Raisin Crisp Cereal"
+    },
+    "Tony's Cinnamon Krunchers Cereal": {
+        "top_1": "Frosted Bran Cereal",
+        "top_2": "Kenmei Rice Bran Cereal",
+        "top_3": "Apple Raisin Crisp Cereal",
+        "top_4": "Fortified Oat Flakes Cereal",
+        "top_5": "Concentrate Cereal"
+    },
+    "Corn Pops Cereal": {
+        "top_1": "Double Dip Crunch Cereal",
+        "top_2": "Honey Nut Shredded Wheat Cereal",
+        "top_3": "Razzle Dazzle Rice Krispies Cereal",
+        "top_4": "Reese's Puffs Cereal",
+        "top_5": "Corny-Snaps Cereal"
+    },
+    "Apple Raisin Crisp Cereal": {
+        "top_1": "Frosted Mini Chex Cereal",
+        "top_2": "Fortified Oat Flakes Cereal",
+        "top_3": "Tony's Cinnamon Krunchers Cereal",
+        "top_4": "Concentrate Cereal",
+        "top_5": "Almond Delight Cereal"
+    },
+    "Ice Cream Cones - Vanilla Cereal": {
+        "top_1": "Berry Berry Kix Cereal",
+        "top_2": "Strawberry Squares Cereal",
+        "top_3": "Strawberry Shortcake Cereal",
+        "top_4": "Pop-Tarts Crunch Cereal",
+        "top_5": "Oreo O's Cereal"
+    },
+    "Nestle NesQuik Cereal": {
+        "top_1": "SpongeBob SquarePants Cereal",
+        "top_2": "Choco Donuts (Cap'n Crunch) Cereal",
+        "top_3": "Mud & Bugs Cereal",
+        "top_4": "Powerpuff Girls Cereal",
+        "top_5": "Pokemon Cereal"
+    },
+    "S'mores Grahams Cereal": {
+        "top_1": "E.T. Cereal",
+        "top_2": "Basic 4 Cereal",
+        "top_3": "Team Flakes Cereal",
+        "top_4": "Raisins Rice & Rye Cereal",
+        "top_5": "Fruit Harvest: Strawberry Blueberry Cereal"
+    },
+    "Post Toasties Corn Flakes Cereal": {
+        "top_1": "Post Toasties Cereal",
+        "top_2": "Muffets Shredded Wheat Cereal",
+        "top_3": "Shredded Wheat (Nabisco) Cereal",
+        "top_4": "Freakies Cereal",
+        "top_5": "Sugar Crisp Cereal"
+    },
+    "S'mores Crunch Cereal": {
+        "top_1": "Good Morenings: Waffle Crunch Cereal",
+        "top_2": "Waffle Crisp Cereal",
+        "top_3": "Nut & Honey Crunch Cereal",
+        "top_4": "Frosted Mini-Wheats: Vanilla Creme Cereal",
+        "top_5": "Honey Nut Corn Flakes Cereal"
+    },
+    "Berry Berry Kix Cereal": {
+        "top_1": "Berry Burst Cheerios - Triple Berry Cereal",
+        "top_2": "Strawberry Squares Cereal",
+        "top_3": "Buzz Blasts Cereal",
+        "top_4": "Ice Cream Cones - Vanilla Cereal",
+        "top_5": "Strawberry Shortcake Cereal"
+    },
+    "Product 19 Cereal": {
+        "top_1": "Maypo",
+        "top_2": "Sugar Jets Cereal",
+        "top_3": "Krumbles Cereal",
+        "top_4": "Whole Hearts Cereal",
+        "top_5": "Graham Cracko's Cereal"
+    },
+    "Fruity Marshmallow Krispies Cereal": {
+        "top_1": "Fortified Oat Flakes Cereal",
+        "top_2": "Rocky Road Cereal",
+        "top_3": "Frosted Mini Chex Cereal",
+        "top_4": "Raisin Squares Cereal",
+        "top_5": "Almond Delight Cereal"
+    },
+    "Strawberry Chex Cereal": {
+        "top_1": "Mud & Bugs Cereal",
+        "top_2": "Pokemon Cereal",
+        "top_3": "SpongeBob SquarePants Cereal",
+        "top_4": "Nestle NesQuik Cereal",
+        "top_5": "Toasted Oatmeal - Honey Nut Cereal"
+    },
+    "Cracker Jack Cereal Cereal": {
+        "top_1": "Frosted Double Dip Crunch Cereal",
+        "top_2": "Fruity Marshmallow Krispies Cereal",
+        "top_3": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Spider-Man (Ralston) Cereal",
+        "top_5": "Rocky Road Cereal"
+    },
+    "Marshmallow Krispies Cereal": {
+        "top_1": "Newman's Own Cereals",
+        "top_2": "Cinnamon Toast Crunch Cereal",
+        "top_3": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Mini-Wheats: Raisin Cereal",
+        "top_5": "Cinnamon Marshmallow Scooby-Doo Cereal"
+    },
+    "Fruit Brute Cereal": {
+        "top_1": "Golden Grahams Cereal",
+        "top_2": "Cinnamon Crunch Crispix Cereal",
+        "top_3": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_4": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_5": "Marshmallow Krispies Cereal"
+    },
+    "Reptar Crunch Cereal": {
+        "top_1": "Peanut Butter Toast Crunch Cereal",
+        "top_2": "Razzle Dazzle Rice Krispies Cereal",
+        "top_3": "Pop-Tarts Crunch Cereal",
+        "top_4": "Powerpuff Girls Cereal",
+        "top_5": "Apple Cinnamon Rice Krispies Cereal"
+    },
+    "Rainbow Brite Cereal": {
+        "top_1": "Triple Snack Cereal",
+        "top_2": "Rocky Road Cereal",
+        "top_3": "Waffelos Cereal",
+        "top_4": "Fruity Marshmallow Krispies Cereal",
+        "top_5": "Powdered Donutz Cereal"
+    },
+    "Caramel Nut Crunch Cereal": {
+        "top_1": "C.W. Post Cereal",
+        "top_2": "Oatmeal Raisin Crisp Cereal",
+        "top_3": "Strawberry Squares Cereal",
+        "top_4": "Nerds Cereal",
+        "top_5": "Honey Crunch Corn Flakes Cereal"
+    },
+    "Choco Donuts (Cap'n Crunch) Cereal": {
+        "top_1": "Nestle NesQuik Cereal",
+        "top_2": "SpongeBob SquarePants Cereal",
+        "top_3": "Powerpuff Girls Cereal",
+        "top_4": "Apple Cinnamon Squares Cereal",
+        "top_5": "Mud & Bugs Cereal"
+    },
+    "Powerpuff Girls Cereal": {
+        "top_1": "SpongeBob SquarePants Cereal",
+        "top_2": "Blueberry Muffin Tops Cereal",
+        "top_3": "Reptar Crunch Cereal",
+        "top_4": "Toasted Oatmeal - Honey Nut Cereal",
+        "top_5": "Apple Cinnamon Squares Cereal"
+    },
+    "Sweet Crunch Cereal": {
+        "top_1": "Addams Family Cereal",
+        "top_2": "Blueberry Muffin Tops Cereal",
+        "top_3": "Smorz Cereal",
+        "top_4": "Honey Nut Clusters Cereal",
+        "top_5": "C-3PO's Cereal"
+    },
+    "Frosted Chex Cereal": {
+        "top_1": "Sun Flakes Cereal",
+        "top_2": "Team Cereal",
+        "top_3": "Oatbake Cereal",
+        "top_4": "Raisins Rice & Rye Cereal",
+        "top_5": "Corn Soya Cereal"
+    },
+    "Honey Bunches of Oats: Honey Roasted Cereal": {
+        "top_1": "Fruit Harvest: Strawberry Blueberry Cereal",
+        "top_2": "Quake Cereal",
+        "top_3": "Basic 4 Cereal",
+        "top_4": "S'mores Grahams Cereal",
+        "top_5": "E.T. Cereal"
+    },
+    "Moonstones Cereal": {
+        "top_1": "Jets Cereal",
+        "top_2": "Waffelos - Blueberry Cereal",
+        "top_3": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_4": "Ruskets Flakes",
+        "top_5": "Ghostbusters Cereal"
+    },
+    "Graham Chex Cereal": {
+        "top_1": "Nut & Honey Crunch Cereal",
+        "top_2": "Moonstones Cereal",
+        "top_3": "Jets Cereal",
+        "top_4": "Oat Flakes (Post) Cereal",
+        "top_5": "Teenage Mutant Ninja Turtles (1989) Cereal"
+    },
+    "Strawberry Honeycomb Cereal": {
+        "top_1": "Puffa Puffa Rice Cereal",
+        "top_2": "Grape-Nuts O's Cereal",
+        "top_3": "Nerds Cereal",
+        "top_4": "Oreo O's Cereal",
+        "top_5": "Kaboom Cereal"
+    },
+    "Razzle Dazzle Rice Krispies Cereal": {
+        "top_1": "Reptar Crunch Cereal",
+        "top_2": "Corny-Snaps Cereal",
+        "top_3": "Oops! All Berries (Cap'n Crunch) Cereal",
+        "top_4": "Apple Cinnamon Rice Krispies Cereal",
+        "top_5": "Apple Cinnamon Squares Cereal"
+    },
+    "Crispy Critters Cereal": {
+        "top_1": "Honey Crunch Corn Flakes Cereal",
+        "top_2": "Strawberry Shortcake Cereal",
+        "top_3": "Nerds Cereal",
+        "top_4": "Double Dip Crunch Cereal",
+        "top_5": "Strawberry Squares Cereal"
+    },
+    "Triple Snack Cereal": {
+        "top_1": "Kaboom Cereal",
+        "top_2": "Rocky Road Cereal",
+        "top_3": "Rainbow Brite Cereal",
+        "top_4": "Frosted Mini Chex Cereal",
+        "top_5": "Waffelos - Blueberry Cereal"
+    },
+    "OJ's Cereal": {
+        "top_1": "Team Cereal",
+        "top_2": "Raisins Rice & Rye Cereal",
+        "top_3": "Corn Soya Cereal",
+        "top_4": "Frosted Chex Cereal",
+        "top_5": "Buc Wheats Cereal"
+    },
+    "Body Buddies Cereal": {
+        "top_1": "Ice Cream Cones - Vanilla Cereal",
+        "top_2": "Reese's Puffs Cereal",
+        "top_3": "Oatmeal Raisin Crisp Cereal",
+        "top_4": "Oreo O's Cereal",
+        "top_5": "Corny-Snaps Cereal"
+    },
+    "Sugar Jets Cereal": {
+        "top_1": "Krumbles Cereal",
+        "top_2": "Country Morning Cereal",
+        "top_3": "Corn Bran Cereal",
+        "top_4": "Oatbake Cereal",
+        "top_5": "Jets Cereal"
+    },
+    "Crunchy Corn Bran Cereal": {
+        "top_1": "S.W. Graham Cereal",
+        "top_2": "Ruskets Flakes",
+        "top_3": "Moonstones Cereal",
+        "top_4": "Oatbake Cereal",
+        "top_5": "Almond Delight Cereal"
+    },
+    "Cinnamon Mini Buns Cereal": {
+        "top_1": "Hidden Treasures Cereal",
+        "top_2": "Honey Crunch Corn Flakes Cereal",
+        "top_3": "Strawberry Squares Cereal",
+        "top_4": "Honey Nut Clusters Cereal",
+        "top_5": "Crispy Critters Cereal"
+    },
+    "Toasted Oatmeal - Honey Nut Cereal": {
+        "top_1": "Hunny B's Cereal",
+        "top_2": "Honey Nut Clusters Cereal",
+        "top_3": "Powerpuff Girls Cereal",
+        "top_4": "SpongeBob SquarePants Cereal",
+        "top_5": "Hidden Treasures Cereal"
+    },
+    "Newman's Own Cereals": {
+        "top_1": "Double Dip Crunch Cereal",
+        "top_2": "Marshmallow Krispies Cereal",
+        "top_3": "Honey Nut Shredded Wheat Cereal",
+        "top_4": "Waffelos Cereal",
+        "top_5": "Grape-Nuts O's Cereal"
+    },
+    "Whole Wheat Krumbles Cereal": {
+        "top_1": "Graham Cracko's Cereal",
+        "top_2": "King Vitaman Cereal",
+        "top_3": "Sun Flakes Cereal",
+        "top_4": "Frosted Chex Cereal",
+        "top_5": "Cocoa Frosted Flakes Cereal"
+    },
+    "Grape-Nuts Trail Mix Crunch: Cranberry Vanilla Cereal": {
+        "top_1": "Cinnamon Marshmallow Scooby-Doo Cereal",
+        "top_2": "Tony's Cinnamon Krunchers Cereal",
+        "top_3": "French Toast Crunch Cereal",
+        "top_4": "Frosted Bran Cereal",
+        "top_5": "Nerds Cereal"
+    },
+    "Strawberry Squares Cereal": {
+        "top_1": "Honey Crunch Corn Flakes Cereal",
+        "top_2": "Apple Cinnamon Rice Krispies Cereal",
+        "top_3": "Strawberry Shortcake Cereal",
+        "top_4": "Berry Berry Kix Cereal",
+        "top_5": "Nerds Cereal"
+    },
+    "Banana Frosted Flakes Cereal": {
+        "top_1": "Oat Flakes (Post) Cereal",
+        "top_2": "Nut & Honey Crunch Cereal",
+        "top_3": "Team Cereal",
+        "top_4": "Buc Wheats Cereal",
+        "top_5": "Multi-Bran Chex Cereal"
+    },
+    "Oops! All Berries (Cap'n Crunch) Cereal": {
+        "top_1": "Razzle Dazzle Rice Krispies Cereal",
+        "top_2": "Apple Cinnamon Squares Cereal",
+        "top_3": "Reptar Crunch Cereal",
+        "top_4": "Corny-Snaps Cereal",
+        "top_5": "Powerpuff Girls Cereal"
+    },
+    "Special K Apple Cinnamon Crunch Cereal": {
+        "top_1": "Good Morenings: Waffle Crunch Cereal",
+        "top_2": "S'mores Crunch Cereal",
+        "top_3": "Cracklin' Oat Bran Cereal",
+        "top_4": "Waffle Crisp Cereal",
+        "top_5": "Spider-Man (Ralston) Cereal"
+    },
+    "Crazy Cow - Chocolate Cereal": {
+        "top_1": "Cinnamon Marshmallow Scooby-Doo Cereal",
+        "top_2": "Vanilly Crunch (Cap'n Crunch) Cereal",
+        "top_3": "Oreo O's Cereal",
+        "top_4": "Strawberry Shortcake Cereal",
+        "top_5": "Cinnamon Crunch (Cap'n Crunch) Cereal"
+    },
+    "S.W. Graham Cereal": {
+        "top_1": "Krumbles Cereal",
+        "top_2": "Concentrate Cereal",
+        "top_3": "Ruskets Flakes",
+        "top_4": "Almond Delight Cereal",
+        "top_5": "Corn Bran Cereal"
+    },
+    "Team Cereal": {
+        "top_1": "Corn Soya Cereal",
+        "top_2": "Frosted Chex Cereal",
+        "top_3": "Buc Wheats Cereal",
+        "top_4": "Raisins Rice & Rye Cereal",
+        "top_5": "OJ's Cereal"
+    },
+    "Honey Graham Oh's Cereal": {
+        "top_1": "Rocky Mountain Chocolate Factory Cereal",
+        "top_2": "Ice Cream Cones - Vanilla Cereal",
+        "top_3": "Corny-Snaps Cereal",
+        "top_4": "Apple Cinnamon Rice Krispies Cereal",
+        "top_5": "Pop-Tarts Crunch Cereal"
+    },
+    "Sprinkle Spangles Cereal": {
+        "top_1": "Kenmei Rice Bran Cereal",
+        "top_2": "Concentrate Cereal",
+        "top_3": "Buzz Blasts Cereal",
+        "top_4": "Berry Burst Cheerios - Triple Berry Cereal",
+        "top_5": "Almond Delight Cereal"
+    },
+    "Ghostbusters Cereal": {
+        "top_1": "Corn Soya Cereal",
+        "top_2": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_3": "Moonstones Cereal",
+        "top_4": "Corn Bran Cereal",
+        "top_5": "Rice Krinkles Cereal"
+    },
+    "Clusters Cereal": {
+        "top_1": "Maypo",
+        "top_2": "Sugar Jets Cereal",
+        "top_3": "Krumbles Cereal",
+        "top_4": "Country Morning Cereal",
+        "top_5": "Whole Hearts Cereal"
+    },
+    "Good Morenings: Waffle Crunch Cereal": {
+        "top_1": "S'mores Crunch Cereal",
+        "top_2": "Special K Apple Cinnamon Crunch Cereal",
+        "top_3": "Waffle Crisp Cereal",
+        "top_4": "Cracklin' Oat Bran Cereal",
+        "top_5": "Spider-Man (Ralston) Cereal"
+    },
+    "CoCo Wheats Cereal": {
+        "top_1": "Mini-Wheats: Raisin Cereal",
+        "top_2": "Strawberry Honeycomb Cereal",
+        "top_3": "Frosted Bran Cereal",
+        "top_4": "Marshmallow Krispies Cereal",
+        "top_5": "Honey Crunch Corn Flakes Cereal"
+    },
+    "Grape-Nuts O's Cereal": {
+        "top_1": "Puffa Puffa Rice Cereal",
+        "top_2": "Smurf Berry Crunch Cereal",
+        "top_3": "Strawberry Honeycomb Cereal",
+        "top_4": "Almond Delight Cereal",
+        "top_5": "Oreo O's Cereal"
+    },
+    "Shredded Ralston Cereal": {
+        "top_1": "Multi-Bran Chex Cereal",
+        "top_2": "Buc Wheats Cereal",
+        "top_3": "Frosted Mini Chex Cereal",
+        "top_4": "Oat Flakes (Post) Cereal",
+        "top_5": "Wheat Hearts Cereal"
+    },
+    "Raisin Bran Extra! Cereal": {
+        "top_1": "Concentrate Cereal",
+        "top_2": "Apple Raisin Crisp Cereal",
+        "top_3": "S.W. Graham Cereal",
+        "top_4": "Country Morning Cereal",
+        "top_5": "Frosted Mini Chex Cereal"
+    },
+    "SpongeBob SquarePants Cereal": {
+        "top_1": "Nestle NesQuik Cereal",
+        "top_2": "Powerpuff Girls Cereal",
+        "top_3": "Mud & Bugs Cereal",
+        "top_4": "Toasted Oatmeal - Honey Nut Cereal",
+        "top_5": "Honey Nut Clusters Cereal"
+    },
+    "Popeye Sweet Crunch Cereal": {
+        "top_1": "C.W. Post Cereal",
+        "top_2": "Most Cereal",
+        "top_3": "Nerds Cereal",
+        "top_4": "Buzz Blasts Cereal",
+        "top_5": "Strawberry Shortcake Cereal"
+    },
+    "Mud & Bugs Cereal": {
+        "top_1": "Pokemon Cereal",
+        "top_2": "SpongeBob SquarePants Cereal",
+        "top_3": "Nestle NesQuik Cereal",
+        "top_4": "Strawberry Chex Cereal",
+        "top_5": "Powerpuff Girls Cereal"
+    },
+    "Most Cereal": {
+        "top_1": "Buzz Blasts Cereal",
+        "top_2": "Popeye Sweet Crunch Cereal",
+        "top_3": "C.W. Post Cereal",
+        "top_4": "Strawberry Shortcake Cereal",
+        "top_5": "Nerds Cereal"
+    },
+    "Multi-Bran Chex Cereal": {
+        "top_1": "Buc Wheats Cereal",
+        "top_2": "Oat Flakes (Post) Cereal",
+        "top_3": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_4": "Team Cereal",
+        "top_5": "Corn Soya Cereal"
+    },
+    "Cookie Crisp: Vanilla Wafer Cereal": {
+        "top_1": "Smurf Berry Crunch Cereal",
+        "top_2": "Cinnamon Crunch (Cap'n Crunch) Cereal",
+        "top_3": "Crispy Wheats 'n Raisins Cereal",
+        "top_4": "Fortified Oat Flakes Cereal",
+        "top_5": "Frosted Double Dip Crunch Cereal"
+    },
+    "Wheaties Fuel Cereal": {
+        "top_1": "Fruit Harvest: Strawberry Blueberry Cereal",
+        "top_2": "Sun Flakes Cereal",
+        "top_3": "Frosted Chex Cereal",
+        "top_4": "Raisins Rice & Rye Cereal",
+        "top_5": "Oatbake Cereal"
+    },
+    "Raisins Rice & Rye Cereal": {
+        "top_1": "Team Cereal",
+        "top_2": "Frosted Chex Cereal",
+        "top_3": "OJ's Cereal",
+        "top_4": "Sun Flakes Cereal",
+        "top_5": "Corn Soya Cereal"
+    },
+    "Apple Cinnamon Squares Cereal": {
+        "top_1": "Powerpuff Girls Cereal",
+        "top_2": "Oops! All Berries (Cap'n Crunch) Cereal",
+        "top_3": "Reptar Crunch Cereal",
+        "top_4": "Blueberry Muffin Tops Cereal",
+        "top_5": "Razzle Dazzle Rice Krispies Cereal"
+    },
+    "Maypo": {
+        "top_1": "Clusters Cereal",
+        "top_2": "Product 19 Cereal",
+        "top_3": "Sugar Jets Cereal",
+        "top_4": "Krumbles Cereal",
+        "top_5": "Whole Hearts Cereal"
+    },
+    "Strawberry Blasted Honey-comb Cereal": {
+        "top_1": "Ice Cream Cones - Vanilla Cereal",
+        "top_2": "Oreo O's Cereal",
+        "top_3": "Grape-Nuts Trail Mix Crunch: Cranberry Vanilla Cereal",
+        "top_4": "Caramel Nut Crunch Cereal",
+        "top_5": "Honey Graham Oh's Cereal"
+    },
+    "Triples Cereal": {
+        "top_1": "Apple Cinnamon Rice Krispies Cereal",
+        "top_2": "Peanut Butter Toast Crunch Cereal",
+        "top_3": "Strawberry Squares Cereal",
+        "top_4": "Berry Berry Kix Cereal",
+        "top_5": "Corny-Snaps Cereal"
+    },
+    "Team Cheerios Cereal": {
+        "top_1": "Cookie Crisp: Vanilla Wafer Cereal",
+        "top_2": "Crispy Wheats 'n Raisins Cereal",
+        "top_3": "Frosted Double Dip Crunch Cereal",
+        "top_4": "Smurf Berry Crunch Cereal",
+        "top_5": "Fortified Oat Flakes Cereal"
+    },
+    "Spider-Man (Ralston) Cereal": {
+        "top_1": "Buc Wheats Cereal",
+        "top_2": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_3": "Nut & Honey Crunch Cereal",
+        "top_4": "Multi-Bran Chex Cereal",
+        "top_5": "Fruity Marshmallow Krispies Cereal"
+    },
+    "Honey Bunches of Oats with Real Peaches Cereal": {
+        "top_1": "Rice Krinkles Cereal",
+        "top_2": "Buc Wheats Cereal",
+        "top_3": "Multi-Bran Chex Cereal",
+        "top_4": "Team Cereal",
+        "top_5": "Teenage Mutant Ninja Turtles (1989) Cereal"
+    },
+    "Powdered Donutz Cereal": {
+        "top_1": "Kaboom Cereal",
+        "top_2": "Apple Raisin Crisp Cereal",
+        "top_3": "Frosted Mini Chex Cereal",
+        "top_4": "Almond Delight Cereal",
+        "top_5": "Kenmei Rice Bran Cereal"
+    },
+    "Basic 4 Cereal": {
+        "top_1": "S'mores Grahams Cereal",
+        "top_2": "Team Flakes Cereal",
+        "top_3": "E.T. Cereal",
+        "top_4": "Fruit Harvest: Strawberry Blueberry Cereal",
+        "top_5": "Raisins Rice & Rye Cereal"
+    },
+    "Muffets Shredded Wheat Cereal": {
+        "top_1": "Post Toasties Corn Flakes Cereal",
+        "top_2": "Grape-Nuts Flakes Cereal",
+        "top_3": "Raisin Bran (Skinner's) Cereal",
+        "top_4": "Sugar Crisp Cereal",
+        "top_5": "Post Toasties Cereal"
+    },
+    "Mini Trix Cereal": {
+        "top_1": "E.T. Cereal",
+        "top_2": "Team Flakes Cereal",
+        "top_3": "Honey Nut Cheerios Cereal",
+        "top_4": "Quake Cereal",
+        "top_5": "Basic 4 Cereal"
+    },
+    "Double Dip Crunch Cereal": {
+        "top_1": "Newman's Own Cereals",
+        "top_2": "Strawberry Shortcake Cereal",
+        "top_3": "Strawberry Squares Cereal",
+        "top_4": "Honey Nut Shredded Wheat Cereal",
+        "top_5": "Crispy Critters Cereal"
+    },
+    "Corn Soya Cereal": {
+        "top_1": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_2": "Team Cereal",
+        "top_3": "Ghostbusters Cereal",
+        "top_4": "Oatbake Cereal",
+        "top_5": "Buc Wheats Cereal"
+    },
+    "C.W. Post Cereal": {
+        "top_1": "Popeye Sweet Crunch Cereal",
+        "top_2": "Nerds Cereal",
+        "top_3": "Most Cereal",
+        "top_4": "Buzz Blasts Cereal",
+        "top_5": "Strawberry Shortcake Cereal"
+    },
+    "Blueberry Morning Cereal": {
+        "top_1": "Spider-Man (Ralston) Cereal",
+        "top_2": "Teenage Mutant Ninja Turtles (1989) Cereal",
+        "top_3": "Buc Wheats Cereal",
+        "top_4": "Boo Berry Cereal",
+        "top_5": "OJ's Cereal"
+    },
+    "Force": {
+        "top_1": "Raisin Bran (Skinner's) Cereal",
+        "top_2": "Franken Berry Cereal",
+        "top_3": "Grape-Nuts Flakes Cereal",
+        "top_4": "Count Chocula Cereal",
+        "top_5": "Honey-Comb Cereal"
+    },
+    "Rocky Mountain Chocolate Factory Cereal": {
+        "top_1": "Honey Graham Oh's Cereal",
+        "top_2": "Oatmeal Raisin Crisp Cereal",
+        "top_3": "Blueberry Muffin Tops Cereal",
+        "top_4": "Addams Family Cereal",
+        "top_5": "Smorz Cereal"
+    },
+    "Graham Cracko's Cereal": {
+        "top_1": "Whole Wheat Krumbles Cereal",
+        "top_2": "King Vitaman Cereal",
+        "top_3": "Sun Flakes Cereal",
+        "top_4": "Quisp Cereal",
+        "top_5": "Cocoa Frosted Flakes Cereal"
+    },
+    "Country Corn Flakes Cereal": {
+        "top_1": "Total Corn Flakes Cereal",
+        "top_2": "Post Toasties Cereal",
+        "top_3": "Shredded Wheat (Nabisco) Cereal",
+        "top_4": "Post Toasties Corn Flakes Cereal",
+        "top_5": "Honey Bunches of Oats with Real Peaches Cereal"
+    },
+    "Honey Crunch Corn Flakes Cereal": {
+        "top_1": "Strawberry Squares Cereal",
+        "top_2": "Strawberry Shortcake Cereal",
+        "top_3": "Nerds Cereal",
+        "top_4": "Apple Cinnamon Rice Krispies Cereal",
+        "top_5": "C.W. Post Cereal"
+    },
+    "Honey Nut Corn Flakes Cereal": {
+        "top_1": "Waffle Crisp Cereal",
+        "top_2": "S'mores Crunch Cereal",
+        "top_3": "Team Cereal",
+        "top_4": "Oatmeal Crisp: Hearty Raisin Cereal",
+        "top_5": "OJ's Cereal"
+    },
+    "Berry Burst Cheerios - Triple Berry Cereal": {
+        "top_1": "Berry Berry Kix Cereal",
+        "top_2": "Buzz Blasts Cereal",
+        "top_3": "Nerds Cereal",
+        "top_4": "Strawberry Shortcake Cereal",
+        "top_5": "Sprinkle Spangles Cereal"
+    },
+    "Oatmeal Crisp: Almond Cereal": {
+        "top_1": "Strawberry Chex Cereal",
+        "top_2": "Mud & Bugs Cereal",
+        "top_3": "Pokemon Cereal",
+        "top_4": "Choco Donuts (Cap'n Crunch) Cereal",
+        "top_5": "Nestle NesQuik Cereal"
+    },
+    "Post Toasties Cereal": {
+        "top_1": "Post Toasties Corn Flakes Cereal",
+        "top_2": "King Vitaman Cereal",
+        "top_3": "Freakies Cereal",
+        "top_4": "Quisp Cereal",
+        "top_5": "Muffets Shredded Wheat Cereal"
+    },
+    "Oatmeal Crisp: Hearty Raisin Cereal": {
+        "top_1": "Oat Flakes (Post) Cereal",
+        "top_2": "Multi-Bran Chex Cereal",
+        "top_3": "Frosted Mini Chex Cereal",
+        "top_4": "Fruity Marshmallow Krispies Cereal",
+        "top_5": "Banana Frosted Flakes Cereal"
+    },
+    "Frosted Double Dip Crunch Cereal": {
+        "top_1": "Fruity Marshmallow Krispies Cereal",
+        "top_2": "Wheat Hearts Cereal",
+        "top_3": "Rocky Road Cereal",
+        "top_4": "Raisin Squares Cereal",
+        "top_5": "Cracker Jack Cereal Cereal"
+    },
+    "Sun Flakes Cereal": {
+        "top_1": "Frosted Chex Cereal",
+        "top_2": "Oatbake Cereal",
+        "top_3": "Team Cereal",
+        "top_4": "Raisins Rice & Rye Cereal",
+        "top_5": "Whole Hearts Cereal"
+    },
+    "Fruit Wheats Cereal": {
+        "top_1": "Yummy Mummy Cereal",
+        "top_2": "Vector Cereal",
+        "top_3": "Blueberry Morning Cereal",
+        "top_4": "Shredded Wheat (Nabisco) Cereal",
+        "top_5": "Frosted Mini-Wheats: Vanilla Creme Cereal"
+    },
+    "Apple Cinnamon Rice Krispies Cereal": {
+        "top_1": "Strawberry Squares Cereal",
+        "top_2": "Triples Cereal",
+        "top_3": "Corny-Snaps Cereal",
+        "top_4": "Honey Crunch Corn Flakes Cereal",
+        "top_5": "French Toast Crunch Cereal"
+    },
+    "Polar Express Cereal": {
+        "top_1": "Graham Cracko's Cereal",
+        "top_2": "OKs Cereal",
+        "top_3": "Wheaties Cereal",
+        "top_4": "King Vitaman Cereal",
+        "top_5": "Freakies Cereal"
+    },
+    "Whole Hearts Cereal": {
+        "top_1": "Country Morning Cereal",
+        "top_2": "Oatbake Cereal",
+        "top_3": "Sun Flakes Cereal",
+        "top_4": "Sugar Jets Cereal",
+        "top_5": "Frosted Chex Cereal"
+    },
+    "Addams Family Cereal": {
+        "top_1": "Sweet Crunch Cereal",
+        "top_2": "Smorz Cereal",
+        "top_3": "Blueberry Muffin Tops Cereal",
+        "top_4": "Honey Nut Clusters Cereal",
+        "top_5": "C-3PO's Cereal"
+    },
+    "Raisin Nut Bran Cereal": {
+        "top_1": "Blueberry Morning Cereal",
+        "top_2": "Spider-Man (Ralston) Cereal",
+        "top_3": "S'mores Crunch Cereal",
+        "top_4": "Good Morenings: Waffle Crunch Cereal",
+        "top_5": "Frosted Mini-Wheats: Vanilla Creme Cereal"
+    },
+    "Total Corn Flakes Cereal": {
+        "top_1": "Country Corn Flakes Cereal",
+        "top_2": "Honey Bunches of Oats with Real Peaches Cereal",
+        "top_3": "Honey Nut Corn Flakes Cereal",
+        "top_4": "Puffed Rice (Quaker) Cereal",
+        "top_5": "Rice Krinkles Cereal"
+    },
+    "Frosted Bran Cereal": {
+        "top_1": "Tony's Cinnamon Krunchers Cereal",
+        "top_2": "Apple Raisin Crisp Cereal",
+        "top_3": "Puffa Puffa Rice Cereal",
+        "top_4": "Powdered Donutz Cereal",
+        "top_5": "Total Raisin Bran Cereal"
+    },
+    "Puffed Wheat (Kellogg's) Cereal": {
+        "top_1": "Frosted Mini Chex Cereal",
+        "top_2": "Apple Raisin Crisp Cereal",
+        "top_3": "Total Raisin Bran Cereal",
+        "top_4": "Rocky Road Cereal",
+        "top_5": "Kaboom Cereal"
+    },
+    "OKs Cereal": {
+        "top_1": "Pettijohn's Breakfast Food",
+        "top_2": "Wheaties Cereal",
+        "top_3": "Freakies Cereal",
+        "top_4": "Raisin Bran (Skinner's) Cereal",
+        "top_5": "Sugar Crisp Cereal"
+    },
+    "Corn Bran Cereal": {
+        "top_1": "S.W. Graham Cereal",
+        "top_2": "Sugar Jets Cereal",
+        "top_3": "Moonstones Cereal",
+        "top_4": "Krumbles Cereal",
+        "top_5": "Ghostbusters Cereal"
+    },
+    "Puffed Rice (Malt-O-Meal) Cereal": {
+        "top_1": "Peanut Butter Toast Crunch Cereal",
+        "top_2": "Apple Cinnamon Rice Krispies Cereal",
+        "top_3": "French Toast Crunch Cereal",
+        "top_4": "Grape-Nuts Trail Mix Crunch: Cranberry Vanilla Cereal",
+        "top_5": "Triples Cereal"
+    },
+    "Waffelos - Blueberry Cereal": {
+        "top_1": "Moonstones Cereal",
+        "top_2": "Rocky Road Cereal",
+        "top_3": "Ruskets Flakes",
+        "top_4": "Jets Cereal",
+        "top_5": "Triple Snack Cereal"
+    },
+    "Oatmeal Raisin Crisp Cereal": {
+        "top_1": "Caramel Nut Crunch Cereal",
+        "top_2": "Pop-Tarts Crunch Cereal",
+        "top_3": "Hidden Treasures Cereal",
+        "top_4": "Ice Cream Cones - Vanilla Cereal",
+        "top_5": "Rocky Mountain Chocolate Factory Cereal"
+    },
+    "Clackers Graham Cereal": {
+        "top_1": "Quisp Cereal",
+        "top_2": "King Vitaman Cereal",
+        "top_3": "Mr. T Cereal",
+        "top_4": "Whole Wheat Krumbles Cereal",
+        "top_5": "Graham Cracko's Cereal"
+    },
+    "Total Raisin Bran Cereal": {
+        "top_1": "Tony's Cinnamon Krunchers Cereal",
+        "top_2": "Frosted Bran Cereal",
+        "top_3": "Apple Raisin Crisp Cereal",
+        "top_4": "Concentrate Cereal",
+        "top_5": "Fortified Oat Flakes Cereal"
+    },
+    "Vector Cereal": {
+        "top_1": "Yummy Mummy Cereal",
+        "top_2": "Team Flakes Cereal",
+        "top_3": "Boo Berry Cereal",
+        "top_4": "Basic 4 Cereal",
+        "top_5": "Fruity Pebbles Cereal"
+    },
+    "Kenmei Rice Bran Cereal": {
+        "top_1": "Sprinkle Spangles Cereal",
+        "top_2": "Tony's Cinnamon Krunchers Cereal",
+        "top_3": "Concentrate Cereal",
+        "top_4": "Apple Raisin Crisp Cereal",
+        "top_5": "Fortified Oat Flakes Cereal"
+    },
+    "Bran Chex Cereal": {
+        "top_1": "Strawberry Shortcake Cereal",
+        "top_2": "Honey Crunch Corn Flakes Cereal",
+        "top_3": "Nerds Cereal",
+        "top_4": "Popeye Sweet Crunch Cereal",
+        "top_5": "Puffa Puffa Rice Cereal"
+    },
+    "Country Morning Cereal": {
+        "top_1": "Whole Hearts Cereal",
+        "top_2": "Oatbake Cereal",
+        "top_3": "Sugar Jets Cereal",
+        "top_4": "Oat Flakes (Post) Cereal",
+        "top_5": "S.W. Graham Cereal"
+    },
+    "Honey Bunches of Oats with Real Bananas Cereal": {
+        "top_1": "Raisin Bran Extra! Cereal",
+        "top_2": "All-Bran Strawberry Medley Cereal",
+        "top_3": "S.W. Graham Cereal",
+        "top_4": "Country Morning Cereal",
+        "top_5": "Concentrate Cereal"
+    },
+    "Ruskets Flakes": {
+        "top_1": "Moonstones Cereal",
+        "top_2": "S.W. Graham Cereal",
+        "top_3": "Krumbles Cereal",
+        "top_4": "Almond Delight Cereal",
+        "top_5": "Waffelos - Blueberry Cereal"
+    },
+    "All-Bran Strawberry Medley Cereal": {
+        "top_1": "Honey Bunches of Oats with Real Bananas Cereal",
+        "top_2": "S.W. Graham Cereal",
+        "top_3": "Concentrate Cereal",
+        "top_4": "Most Cereal",
+        "top_5": "Kaboom Cereal"
+    },
+    "Oatbake Cereal": {
+        "top_1": "Country Morning Cereal",
+        "top_2": "Whole Hearts Cereal",
+        "top_3": "Sun Flakes Cereal",
+        "top_4": "Corn Soya Cereal",
+        "top_5": "Frosted Chex Cereal"
+    },
+    "Cinnamon Crunch Crispix Cereal": {
+        "top_1": "Fruit Brute Cereal",
+        "top_2": "French Toast Crunch Cereal",
+        "top_3": "Peanut Butter Toast Crunch Cereal",
+        "top_4": "Cinnamon Marshmallow Scooby-Doo Cereal",
+        "top_5": "Marshmallow Krispies Cereal"
+    },
+    "Frosted Mini-Wheats: Vanilla Creme Cereal": {
+        "top_1": "S'mores Crunch Cereal",
+        "top_2": "Yummy Mummy Cereal",
+        "top_3": "Good Morenings: Waffle Crunch Cereal",
+        "top_4": "Honey Nut Corn Flakes Cereal",
+        "top_5": "Vector Cereal"
+    },
+    "Fiber One 80: Honey Squares Cereal": {
+        "top_1": "Honey Nut Clusters Cereal",
+        "top_2": "Toasted Oatmeal - Honey Nut Cereal",
+        "top_3": "Addams Family Cereal",
+        "top_4": "SpongeBob SquarePants Cereal",
+        "top_5": "Blueberry Muffin Tops Cereal"
+    },
+    "Corny-Snaps Cereal": {
+        "top_1": "Apple Cinnamon Rice Krispies Cereal",
+        "top_2": "Strawberry Squares Cereal",
+        "top_3": "Ice Cream Cones - Vanilla Cereal",
+        "top_4": "Pop-Tarts Crunch Cereal",
+        "top_5": "Triples Cereal"
+    },
+    "Fruit Harvest: Strawberry Blueberry Cereal": {
+        "top_1": "Raisins Rice & Rye Cereal",
+        "top_2": "Honey Bunches of Oats: Honey Roasted Cereal",
+        "top_3": "Basic 4 Cereal",
+        "top_4": "S'mores Grahams Cereal",
+        "top_5": "Frosted Chex Cereal"
+    },
+    "Honey Nut Shredded Wheat Cereal": {
+        "top_1": "Double Dip Crunch Cereal",
+        "top_2": "Newman's Own Cereals",
+        "top_3": "Waffelos Cereal",
+        "top_4": "Puffa Puffa Rice Cereal",
+        "top_5": "Grape-Nuts O's Cereal"
+    },
+    "Honey Nut Clusters Cereal": {
+        "top_1": "Toasted Oatmeal - Honey Nut Cereal",
+        "top_2": "Hunny B's Cereal",
+        "top_3": "Hidden Treasures Cereal",
+        "top_4": "Cinnamon Mini Buns Cereal",
+        "top_5": "Addams Family Cereal"
+    },
+    "Pettijohn's Breakfast Food": {
+        "top_1": "Wheaties Cereal",
+        "top_2": "Freakies Cereal",
+        "top_3": "Sugar Crisp Cereal",
+        "top_4": "OKs Cereal",
+        "top_5": "Alpha-Bits Cereal"
+    },
+    "Wheat Hearts Cereal": {
+        "top_1": "Frosted Double Dip Crunch Cereal",
+        "top_2": "Raisin Squares Cereal",
+        "top_3": "Rocky Road Cereal",
+        "top_4": "Puffed Rice (Quaker) Cereal",
+        "top_5": "Fruity Marshmallow Krispies Cereal"
+    },
+    "Mini-Wheats: Raisin Cereal": {
+        "top_1": "Marshmallow Krispies Cereal",
+        "top_2": "CoCo Wheats Cereal",
+        "top_3": "French Toast Crunch Cereal",
+        "top_4": "Cinnamon Marshmallow Scooby-Doo Cereal",
+        "top_5": "Cinnamon Crunch (Cap'n Crunch) Cereal"
+    }
+}
